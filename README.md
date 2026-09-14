@@ -30,7 +30,7 @@
 │  shreenath@github                       │
 │  ──────────────────────────             │
 │  OS:       Windows 11 / Linux / Android │
-│  Host:     PIET – B.Tech CSE            │
+│  Host:     SELF                         │
 │  Shell:    Bash / PowerShell / Zsh      │
 │  Role:     Web Pentester                │
 │  Focus:    Offensive Security           │
@@ -46,7 +46,7 @@
 │                                         │
 │  Interests:                             │
 │  Pentesting · CTFs · AI Security        │
-│  Blockchain · Linux · Cloud             │
+│   · Linux             │
 │                                         │
 └─────────────────────────────────────────┘
 ```
