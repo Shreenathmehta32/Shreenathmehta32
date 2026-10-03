@@ -4,8 +4,8 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║              S H R E E N A T H   M E H T A                         ║
-║         Cybersecurity  •  Offensive Security  •  AI & Automation    ║
+║              S H R E E N A T H   M E H T A                           ║
+║         Cybersecurity  •  Offensive Security  •  AI & Automation     ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -46,7 +46,7 @@
 │                                         │
 │  Interests:                             │
 │  Pentesting · CTFs · AI Security        │
-│   · Linux             │
+│   · Linux                               │
 │                                         │
 └─────────────────────────────────────────┘
 ```
